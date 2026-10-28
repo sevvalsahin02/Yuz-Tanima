@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+veri/yuzler/*
+model/*
+!veri/yuzler/.gitkeep
+!model/.gitkeep

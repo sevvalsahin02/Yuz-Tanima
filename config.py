@@ -11,4 +11,4 @@ YUZ_BOYUTU = (100, 100)
 FOTO_SAYISI = 60         
 ALGORITMA = "lbph"
 
-ESIK = {"lbph": 110, "fisher": 1500}   # kendi sayılarına göre ayarla
+ESIK = {"lbph": 80, "fisher": 1500}   # kendi sayılarına göre ayarla

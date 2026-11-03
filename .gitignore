@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+__pycache__/
+.vs/
+.vscode/
+veri/
+model/yuz_modeli.xml
+model/etiketler.json
+model/*.caffemodel
